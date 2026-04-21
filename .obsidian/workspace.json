@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M0/Q2/TRANH3001 Epistémologie des sciences et éthique de l'ingénieur/épistémologie/Synthese-Epistemo.md",
+                "file": "M0/Q2/INFOF514 Protocols cryptanalysis and mathematical cryptology/Visual Crypto/visual-cryptography/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Synthese-Epistemo"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M0/Q2/TRANH3001 Epistémologie des sciences et éthique de l'ingénieur/épistémologie/Synthese-Epistemo.md",
+                "file": "M0/Q2/INFOF514 Protocols cryptanalysis and mathematical cryptology/Visual Crypto/visual-cryptography/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Synthese-Epistemo"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "M0/Q2/TRANH3001 Epistémologie des sciences et éthique de l'ingénieur/épistémologie/Synthese-Epistemo.md",
+                "file": "M0/Q2/INFOF514 Protocols cryptanalysis and mathematical cryptology/Visual Crypto/visual-cryptography/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Synthese-Epistemo"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "M0/Q2/TRANH3001 Epistémologie des sciences et éthique de l'ingénieur/épistémologie/Synthese-Epistemo.md",
+                "file": "M0/Q2/INFOF514 Protocols cryptanalysis and mathematical cryptology/Visual Crypto/visual-cryptography/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Synthese-Epistemo"
+              "title": "Outline of README"
             }
           }
         ]
@@ -184,5 +184,8 @@
     }
   },
   "active": "38d3c46ef5034f67",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "M0/Q2/TRANH3001 Epistémologie des sciences et éthique de l'ingénieur/épistémologie/04-Epistemologie.pdf",
+    "M0/Q2/TRANH3001 Epistémologie des sciences et éthique de l'ingénieur/épistémologie/Synthese-Epistemo.md"
+  ]
 }

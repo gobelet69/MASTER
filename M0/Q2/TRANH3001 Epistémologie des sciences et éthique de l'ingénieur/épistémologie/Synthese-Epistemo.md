@@ -239,3 +239,102 @@
 * **L'hypothèse :** En sciences empiriques, c'est une proposition explicative avancée provisoirement qui doit être contrôlée par l'expérience ou la déduction. Attention, en mathématiques, le sens est différent (l'hypothèse est une prémisse donnée non démontrée pour initier une démonstration logique).
 * **La loi scientifique :** C'est une hypothèse jugée très probable parce qu'elle a été corroborée par de nombreuses observations. Elle peut toujours être améliorée ou généralisée.
 * **La corrélation vs Causalité :** La corrélation mesure simplement la tendance de deux variables à varier conjointement. Deux événements peuvent être fortement corrélés sans qu'il y ait de lien de cause à effet. Les données statistiques seules, dénuées de contexte fondamental (*background information*), peuvent mener à des conclusions absurdes et dangereuses.
+
+### 6. Retour sur les notions de théorie, loi, modèle et corrélation
+* **Théorie, Modèle et Loi (Illustration avec la thermodynamique) :**
+  * **La théorie :** Définit les objets mobilisés (ex. Énergie, Entropie) et unifie les principes régissant la matière avec une prétention à l'universalité.
+  * **Le modèle :** Renvoie à l'ensemble des hypothèses simplificatrices (ex. le modèle du gaz parfait présuppose des molécules sans volume et sans interaction). Sa portée est restreinte aux limites de ses propres hypothèses.
+  * **La loi :** Expression d'un comportement constant (ex. la formule $PV=nRT$). Elle est universelle, mais uniquement à l'intérieur du domaine de validité défini par le modèle.
+* **Théorie vs Hypothèse :** Une théorie scientifique qui n'est pas encore validée reste une hypothèse. 
+* **Corrélation vs Causalité :** Une corrélation évalue la tendance de deux variables à varier de concert. Deux événements fortement corrélés n'ont pas forcément de rapport de cause à effet. Les statistiques seules, dénuées d'informations de contexte (*background information*), sont dangereuses. (Exemple de Coluche : la probabilité de mourir à l'hôpital y est plus grande que chez soi, non pas à cause de l'hôpital, mais parce qu'on s'y rend quand on est gravement malade).
+
+### 7. Découverte, invention, innovation, sérendipité
+* *(Note de structure : Ce point correspond au point 8 dans les slides du cours)*
+* **La découverte :** Consiste à dévoiler un phénomène ou un être préexistant dans la nature (ex. la découverte de Neptune par Le Verrier, Galle et Adams). Elle est **publiable** (étape essentielle pour la certification par les pairs et l'attribution de la découverte) mais **non appropriable**.
+* **L'invention :** Produit de l'esprit ou de l'activité humaine consistant à créer quelque chose qui n'existait pas jusqu'alors (ex. l'ampoule électrique). L'invention appartient à l'inventeur et est **brevetable** (régime de la propriété intellectuelle).
+* **L'innovation :** Création ou amélioration d'un produit, d'un service ou d'un procédé qui s'impose avec succès dans la société ou sur le marché, générant une plus-value (ex. le procédé de verre flotté de Pilkington).
+  * *Différence Invention / Innovation :* L'invention se concentre sur la matérialisation technique (le passage de l'idée au prototype, répondre à "Est-ce que ça marche ?") et relève des scientifiques/inventeurs. L'innovation se concentre sur la mise en œuvre et la diffusion massive (passage à l'usage, répondre à "Est-ce que les gens l'achètent ?") et relève des entrepreneurs/marketeurs.
+* **La sérendipité :** Capacité abductive à faire par hasard une découverte inattendue et à en saisir l'utilité. Ce n'est pas une simple chance, mais une posture intellectuelle qui transforme une anomalie observationnelle en opportunité. Elle nécessite trois ingrédients : **l'accident** (un événement imprévu, une erreur), **la sagacité** (la capacité à reconnaître l'intérêt de l'imprévu) et **la valeur** (la transformation en opportunité utile).
+  * *Exemple 1 (Radioactivité - Becquerel) :* Météo couverte (accident) + développement des plaques "inutilisables" par curiosité (sagacité) + mise en évidence d'une émission spontanée (valeur).
+  * *Exemple 2 (Pénicilline - Fleming) :* Contamination par moisissure (accident) + observation de la zone sans bactéries (sagacité) + pouvoir antibactérien (valeur).
+  * *Exemple 3 (Post-it - Silver & Fry) :* Colle à faible adhérence (accident) + utilisation pour faire tenir des marque-pages (sagacité) + création du Post-it (valeur).
+  * *Rupture épistémologique :* Contrairement à la démarche hypothético-déductive (linéaire, on trouve ce que l'on cherche), la sérendipité est abductive (on trouve une question là où d'autres voient une erreur de mesure).
+* **La problématique des brevets :** Un brevet est un titre de propriété intellectuelle qui rend une invention publique (pour empêcher le secret) tout en garantissant un monopole temporaire pour rémunérer l'inventeur. Ce compromis entre propriété privée et utilité sociale génère des conflits, fondés sur la limite entre naturel (découverte non brevetable) et artificiel (invention brevetable).
+  * *Gènes humains (BRCA - Myriad Genetics) :* L'ADN naturel est une découverte, il ne peut être breveté (Cour Suprême US, 2013).
+  * *CRISPR-Cas9 :* Batailles juridiques complexes entre l'observation chez la bactérie (découverte) et l'application sur cellules humaines (invention).
+  * *Biodiversité (Poivron Syngenta) :* Les procédés de croisement biologique naturel ne sont pas brevetables (protection du patrimoine vivant commun).
+  * *Intelligence Artificielle (Transformers) :* Débat pour savoir si un algorithme est une suite mathématique abstraite (non brevetable) ou une structure technique d'ingénierie.
+  * *Définition de l'inventeur (DABUS) :* Une machine (IA) ne peut être légalement reconnue comme inventrice. Le brevet protège exclusivement le génie humain.
+  * *Usage altruiste :* Le brevet peut aussi agir comme une armure juridique pour garantir la gratuité et protéger l'intérêt général de toute appropriation commerciale (ex. valves de respirateurs imprimées en 3D par Isinnova pendant l'urgence COVID).
+
+# Chapitre 3 - La valeur des théories scientifiques
+
+
+### 1. Le réalisme et l'instrumentalisme
+* **Le cœur du débat :** Concerne la nature du lien entre une théorie scientifique et son objet d'étude. Ce désaccord philosophique porte *uniquement* sur le statut des **entités inobservables** (ex. la physique des particules). Il y a un consensus total sur le fait que la science décrit fidèlement la réalité pour les objets observables (ex. l'éthologie).
+* **Le réalisme :** Thèse affirmant que les entités postulées par les théories existent réellement dans la réalité extralinguistique. Le but de la science est de fournir la description la plus fidèle possible de cette réalité. 
+  * *Contexte historique détaillé :* Galilée défendait l'héliocentrisme de manière réaliste (comme une vérité physique). Lors de la Contre-réforme (marquée par le Concile de Trente de 1545 à 1563 exigeant une lecture littérale de la Bible), l'Église accepte de discuter l'héliocentrisme uniquement comme une hypothèse mathématique. En 1615, le cardinal Bellarmin écrit à Foscarini pour conseiller la prudence et l'approche hypothétique afin de ne pas irriter les théologiens. Face au refus de se plier à cette vision, les écrits de Copernic sont mis à l'Index en 1616 et Galilée est condamné par l'Inquisition en 1633. Leurs ouvrages ne seront officiellement rayés de l'Index qu'en 1835.
+* **L'instrumentalisme :** Thèse affirmant que les théories scientifiques ne sont que des outils, des fictions ou des moyens calculatoires efficaces pour prédire des phénomènes observables. Ces entités n'existent pas nécessairement dans la réalité. L'objectif est strictement prédictif. 
+  * *Contexte historique :* La préface anonyme rédigée par Osiander pour le livre de Copernic (1543) adoptait une posture totalement instrumentaliste pour affirmer que l'héliocentrisme n'était qu'une méthode de calcul (sauvant ainsi les apparences sans heurter la religion).
+* **L'argument de la corroboration :** C'est un argument très fort en faveur de la perspective réaliste. Si l'existence d'une entité inobservable (comme les "corps denses" ou plaquettes sanguines observées par Ian Hacking, 1936-2023) est confirmée par plusieurs modes de détection reposant sur des processus physiques différents (microscope optique vs électronique), il serait absurde ou "miraculeux" que cette entité n'existe pas vraiment.
+
+### 2. Le problème de la démarcation
+* **Définition :** C'est la recherche de critères stricts permettant de distinguer clairement la science de la non-science (pseudo-sciences, métaphysique, simple intuition). Il s'articule autour de plusieurs tentatives historiques.
+
+#### 2.1 Le critère de la vérifiabilité
+* **Principe :** S'inscrivant dans la tradition empiriste de Bacon, ce critère postule que pour les sciences empiriques, un énoncé est scientifique s'il est vérifiable (il est possible de confirmer sa vérité par l'expérience ou l'observation directe ou indirecte).
+* **Typologie des énoncés de connaissance :**
+  1. *Énoncés d'observation :* Portent sur des entités observables (directement vérifiables).
+  2. *Énoncés théoriques :* Lois scientifiques et entités non observables. Indirectement vérifiables (il faut en déduire des énoncés d'observation qui seront testés dans le réel).
+  3. *Énoncés analytiques :* Énoncés formels (logique, mathématiques) qui échappent à ce critère.
+  4. *Énoncés métaphysiques :* Dénués de contenu empirique, ils sont invérifiables (donc exclus du champ scientifique).
+* **Limites et caractère inopérant du critère :**
+  * *Vérification des observations :* L'observation directe est imparfaite, car dépendante d'un cadre conceptuel (les instruments sont "chargés de théorie"). Cela mène à des biais d'observation. Exemple : la découverte des virus géants (Pithovirus, Mollivirus, Megavirus, Pandoravirus) a été retardée car les scientifiques pensaient observer des erreurs ou des artefacts, leur taille dépassant le cadre théorique admis pour un virus.
+  * *Vérification des théories :* Les lois scientifiques ont une portée universelle. Pour vérifier strictement une affirmation comme "Tous les cygnes sont blancs", il faudrait observer l'infinité des cygnes passés, présents et futurs, ce qui est impossible.
+* **Le problème de l'induction (David Hume, 1711-1776) :** L'induction présuppose "l'uniformité de la nature". Or, ce postulat ne peut être prouvé logiquement, ni justifié empiriquement (ce qui serait un raisonnement circulaire). Son seul fondement est psychologique (l'habitude), ce qui apparente l'induction à une foi aveugle.
+
+#### 2.2 Le critère de la réfutabilité (Falsifiabilité)
+* **Origine :** Théorisé par Karl Popper (1902-1994) dans *La logique de la découverte scientifique* (1934), en s'inspirant de la démarche d'Albert Einstein.
+* **L'exemple paradigmatique d'Einstein :** La relativité générale (1915) postule la courbure de l'espace-temps. Par déduction, elle prédit l'effet de lentille gravitationnelle (déviation de la lumière par un corps massif). En 1919, lors d'une éclipse totale en Afrique, Arthur Eddington (1882-1944) observe et corrobore ce phénomène. La théorie d'Einstein était hautement risquée : si l'observation avait été contraire, la théorie aurait été détruite.
+* **Le critère de Popper :** Est scientifique une théorie qui est *réfutable* (ou falsifiable). C'est-à-dire qu'il est en principe possible de démontrer sa fausseté. Elle doit produire des prédictions précises, définies, et n'est pas compatible avec n'importe quel résultat expérimental. (*Note : réfutable ne signifie pas "réfutée" ou "fausse", mais testable. Une théorie scientifique peut s'avérer fausse suite au test*).
+* **Démarche Scientifique vs Pseudo-scientifique :**
+  * *Science :* Démarche active de prise de risque. Si l'hypothèse survit aux tests, elle est provisoirement **corroborée** (vérité relative aux tests). Si elle échoue, elle est **éliminée**.
+  * *Pseudo-science :* Théories non réfutables, conçues pour être compatibles avec tout. Elles cherchent sans cesse la confirmation au lieu de la réfutation. Face à un résultat contraire, la théorie n'est pas éliminée mais subit des "aménagements" arbitraires pour intégrer l'erreur.
+* **Exemples d'approches non réfutables :**
+  * *La psychanalyse :* L'inconscient peut justifier n'importe quel comportement ou son exact inverse.
+  * *Les phénomènes paranormaux :* Existent par le biais de la "loi des grands nombres" et du biais psychologique consistant à ne retenir que les cas où "ça a marché".
+  * *L'astrologie et la divination :* Prédictions beaucoup trop vagues ou prudentes pour pouvoir être prises en défaut. De plus, des cas comme "Paul le poulpe" (prédiction de matchs de foot) ou le calendrier Maya ne reposent sur aucun énoncé universel (ce sont des énoncés singuliers) et n'ont aucune démarche de réfutation intentionnelle.
+* **Limites de la réfutabilité :** Dans la pratique scientifique réelle, une théorie n'est pas systématiquement abandonnée à la première réfutation apparente. Par exemple, les anomalies observées dans l'orbite d'Uranus n'ont pas conduit à rejeter la théorie de Newton, mais plutôt à postuler (et découvrir) l'existence de Neptune.
+
+#### 2.3 La démarcation selon Jean Bricmont (2002)
+* **Une frontière pragmatique :** Bricmont souligne qu'il est sans doute impossible de formuler un critère philosophique absolument parfait, unique et universel séparant la science de la non-science.
+* **L'évidence du succès :** Néanmoins, les différences restent énormes et visibles. La science évolue, se corrige, se remet en cause, et surtout, elle affiche des succès théoriques et pratiques incalculables qui ont radicalement transformé le monde et nos vies, ce dont les pseudo-sciences sont totalement incapables.
+  
+### 3. La notion de preuve
+* **La croyance scientifique :** La science ne relève pas de la croyance dogmatique, mais d'une croyance rationnellement justifiée, c'est-à-dire fondée sur des preuves.
+* **Définition d'une preuve :** Ensemble d'arguments démontrant la vérité ou la très grande probabilité d'un énoncé. La nature de la preuve dépend intimement de la nature de l'énoncé étudié.
+* **Typologie des preuves selon les domaines :**
+  * *Mathématiques et Logique :* Preuve par la démonstration ou la déduction (d'axiomes vers des théorèmes). La vérité obtenue y est absolue et logiquement nécessaire au sein du système formel.
+  * *Sciences empiriques :* Preuve par la vérification empirique ou la corroboration (via l'expérimentation). La vérité y est probable et relative aux tests effectués (toujours provisoire).
+  * *Domaine juridique (Tribunaux) :* Preuve établie "au-delà de tout doute raisonnable", reposant sur des témoignages, des preuves matérielles ou des rapports d'experts.
+* **Le standard d'une "bonne" preuve :** Selon la maxime formulée par Marcello Truzzi et popularisée par Carl Sagan : *"Une allégation extraordinaire nécessite une preuve plus qu'ordinaire"*. Par exemple, affirmer qu'il a plu à Bruxelles demande une preuve banale (météo locale), tandis qu'affirmer l'atterrissage d'un OVNI exige des preuves empiriques extraordinaires et irréfutables.
+
+---
+
+# Chapitre 4 : La dynamique de la production des connaissances scientifiques
+
+## 1. Deux lectures antagonistes : l'internalisme et l'externalisme
+* **Introduction à la dynamique scientifique :** Ce chapitre s'interroge sur la manière dont la science évolue dans le temps, sur les mécanismes et le moteur central de ce changement, ainsi que sur le statut des connaissances à une époque donnée. Le débat porte sur le fait de savoir si le développement scientifique est une stricte progression rationnelle accumulant des vérités, ou s'il est dicté par des forces sociétales.
+* **Les facteurs d'influence :** Qu'est-ce qui oriente la production et la validation du savoir scientifique ? Deux catégories de facteurs s'opposent :
+  * *Facteurs internes :* Arguments rationnels, logique formelle, résultats empiriques d'expériences, cohérence mathématique, puissance prédictive des théories.
+  * *Facteurs externes :* Contexte sociologique, économique, politique, religieux, idéologique et culturel.
+* **L'Internalisme :** Thèse affirmant que *seuls* les facteurs internes guident l'évolution des sciences. La science est conçue comme un domaine autonome, objectif et purement rationnel, hermétique aux influences de la société. Les théories scientifiques s'imposent uniquement parce qu'elles correspondent à la réalité objective et qu'elles respectent rigoureusement la méthode.
+* **L'Externalisme :** Thèse affirmant que les facteurs externes exercent une influence déterminante (voire prépondérante) dans l'évolution des sciences. La science est analysée comme une pratique sociale comme une autre, profondément influencée et orientée par le contexte de son époque.
+* **Exemples d'influences des facteurs externes sur la science :**
+  * *Économiques :* L'orientation du financement de la recherche détermine ce qui est étudié (budgets alloués au secteur militaire, à l'industrie pharmaceutique, à l'agronomie).
+  * *Politiques et idéologiques :* Le développement de l'eugénisme, le lyssenkisme en URSS (politique agricole imposée par l'État rejetant la génétique classique), ou encore l'influence d'administrations politiques contemporaines (ex. l'administration Trump) sur les priorités scientifiques.
+  * *Religieuses :* L'opposition historique entre le géocentrisme et l'héliocentrisme, les débats éthiques freinant la recherche sur les cellules souches embryonnaires, ou inversement, l'impulsion religieuse favorisant le développement des sciences arabo-musulmanes (astronomie, optique).
+* **L'exemple de la physique quantique (années 1920) sous deux lectures :** L'émergence de la théorie de l'indéterminisme à l'échelle microscopique peut être interprétée de deux manières opposées :
+  * *Lecture internaliste :* Ce sont les résultats concrets des expériences qui ont contraint les scientifiques à admettre que la physique est indéterministe.
+  * *Lecture externaliste :* L'adoption de cette physique indéterministe n'est que la traduction scientifique d'un renoncement idéologique profond à la causalité. Ce renoncement s'explique par la grave crise sociale et l'effondrement des valeurs rationalistes en Allemagne à la suite de la défaite de la Première Guerre mondiale.
+* **Vers une synthèse (Introduction à Thomas Kuhn) :** Face à l'opposition stérile entre un internalisme pur et un externalisme radical, le philosophe Thomas Kuhn défend une thèse de compromis : les contraintes internes et les contraintes externes influencent conjointement la production des connaissances scientifiques.
