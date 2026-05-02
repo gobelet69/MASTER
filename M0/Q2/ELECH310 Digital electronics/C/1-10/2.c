@@ -1,3 +1,8 @@
-//
-// Created by Theo Deville on 5/1/26.
-//
+#include <stdio.h>
+
+int monChiffre = 35;
+
+int main() {
+    printf("%d", monChiffre);
+    return 0;
+}

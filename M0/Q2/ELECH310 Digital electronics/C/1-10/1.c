@@ -1,3 +1,5 @@
-//
-// Created by Theo Deville on 5/1/26.
-//
+#include <stdio.h>
+int main() {
+    printf("hello world");
+    return 0;
+}

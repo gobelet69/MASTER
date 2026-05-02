@@ -109,7 +109,7 @@ int main() {
     };
 
     // La consigne demande de commencer à l'exercice 11
-    for (int i = 11; i <= 100; i++) {
+    for (int i = 1; i <= 100; i++) {
         // Calcul du dossier cible (ex: pour 11 -> 11-20)
         int dir_start = ((i - 1) / 10) * 10 + 1;
         int dir_end = dir_start + 9;
